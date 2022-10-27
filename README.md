@@ -35,3 +35,4 @@
 ### Reference
 1. [Atmega328P datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
 2. [Timer/Counter Module of Atmega328P Module](https://forum.arduino.cc/t/ch-9-timer-counter-module-of-atmega328p-mcu/662590)
+3. [Atmega Interrupts](https://www.arxterra.com/10-atmega328p-interrupts/)
