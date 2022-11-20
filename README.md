@@ -1,4 +1,4 @@
-# Blink LED using Interrupt
+# Blink LED using Overflow Interrupt
 ### Prerequisite
 1. Hardware: Arduino Uno
 2. Software: Install AVR GCC Toolchain (Please follow instructions in README.md of master branch if not already done)
